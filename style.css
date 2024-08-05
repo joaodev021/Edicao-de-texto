@@ -1,0 +1,30 @@
+h1 {
+  color: green;
+}
+#texto {
+  background-color: #c0c0c0;
+  color: green;
+  font-size: 20px;
+  padding: 15px;
+  text-align: justify;
+}
+#mudar_fonte {
+  margin-bottom: 3px;
+  padding: 3px;
+}
+#mudar_cor {
+  margin-bottom: 3px;
+  padding: 3px;
+}
+#mudar_fundo {
+  margin-bottom: 3px;
+  padding: 3px;
+}
+#mudar_borda {
+  margin-bottom: 3px;
+  padding: 3px;
+}
+#reset {
+  margin-bottom: 3px;
+  padding: 3px;
+}
